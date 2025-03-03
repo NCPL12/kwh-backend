@@ -1,0 +1,38 @@
+2025-02-21T18:43:23.440+05:30  INFO 1452 --- [main] n.b.reports.BmsReportsApplicationTests   : Starting BmsReportsApplicationTests using Java 17.0.12 with PID 1452 (started by NCPL-AST-11 in C:\Users\tekni\Desktop\KWH REPORT GENERATION\bms1-main-c\bms-reports)
+2025-02-21T18:43:23.442+05:30 DEBUG 1452 --- [main] n.b.reports.BmsReportsApplicationTests   : Running with Spring Boot v3.1.7, Spring v6.0.15
+2025-02-21T18:43:23.444+05:30  INFO 1452 --- [main] n.b.reports.BmsReportsApplicationTests   : The following 1 profile is active: "dev"
+2025-02-21T18:43:25.698+05:30  INFO 1452 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-21T18:43:25.761+05:30  INFO 1452 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 41 ms. Found 0 JPA repository interfaces.
+2025-02-21T18:43:27.365+05:30  INFO 1452 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-21T18:43:27.562+05:30  INFO 1452 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-21T18:43:27.684+05:30  INFO 1452 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-02-21T18:43:28.574+05:30  INFO 1452 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-21T18:43:28.668+05:30  INFO 1452 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-21T18:43:29.505+05:30  INFO 1452 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d58926b7-c0b4-4778-a412-b811182f66dd
+2025-02-21T18:43:29.508+05:30  INFO 1452 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-21T18:43:31.060+05:30  INFO 1452 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-21T18:43:31.121+05:30  INFO 1452 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-21T18:43:32.291+05:30  WARN 1452 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-21T18:43:35.331+05:30  INFO 1452 --- [main] n.b.reports.BmsReportsApplicationTests   : Started BmsReportsApplicationTests in 12.783 seconds (process running for 15.606)
+2025-02-21T18:43:37.461+05:30  INFO 1452 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-21T18:43:37.470+05:30  INFO 1452 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-21T18:43:37.479+05:30  INFO 1452 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-02-21T18:46:43.663+05:30  INFO 14792 --- [main] n.b.reports.BmsReportsApplicationTests   : Starting BmsReportsApplicationTests using Java 17.0.12 with PID 14792 (started by NCPL-AST-11 in C:\Users\tekni\Desktop\KWH REPORT GENERATION\bms1-main-c\bms-reports)
+2025-02-21T18:46:43.667+05:30 DEBUG 14792 --- [main] n.b.reports.BmsReportsApplicationTests   : Running with Spring Boot v3.1.7, Spring v6.0.15
+2025-02-21T18:46:43.674+05:30  INFO 14792 --- [main] n.b.reports.BmsReportsApplicationTests   : The following 1 profile is active: "dev"
+2025-02-21T18:46:46.329+05:30  INFO 14792 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-21T18:46:46.401+05:30  INFO 14792 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 47 ms. Found 0 JPA repository interfaces.
+2025-02-21T18:46:48.155+05:30  INFO 14792 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-21T18:46:48.370+05:30  INFO 14792 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-02-21T18:46:48.509+05:30  INFO 14792 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-02-21T18:46:49.452+05:30  INFO 14792 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-21T18:46:49.530+05:30  INFO 14792 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-21T18:46:50.728+05:30  INFO 14792 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 280e449e-cf23-48c0-887c-8a212764e183
+2025-02-21T18:46:50.741+05:30  INFO 14792 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-21T18:46:52.670+05:30  INFO 14792 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-21T18:46:52.687+05:30  INFO 14792 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-21T18:46:54.390+05:30  WARN 14792 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-21T18:47:00.051+05:30  INFO 14792 --- [main] n.b.reports.BmsReportsApplicationTests   : Started BmsReportsApplicationTests in 17.919 seconds (process running for 21.762)
+2025-02-21T18:47:02.867+05:30  INFO 14792 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-21T18:47:02.878+05:30  INFO 14792 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-21T18:47:02.907+05:30  INFO 14792 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
